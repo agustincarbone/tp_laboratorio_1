@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1523475175 source:c:\users\agustin\desktop\agustin\projectos en c\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1523475162 source:c:\users\agustin\desktop\agustin\projectos en c\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523475162 c:\users\agustin\desktop\agustin\projectos en c\tp_laboratorio_1\funciones.h
+
+1523576926 source:f:\programacion 1\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1523576880 source:f:\programacion 1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523574938 f:\programacion 1\tp_laboratorio_1\funciones.h
+
+1523576880 source:e:\programacion 1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523574938 e:\programacion 1\tp_laboratorio_1\funciones.h
+
+1523576926 source:e:\programacion 1\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
